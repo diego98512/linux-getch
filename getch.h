@@ -1,12 +1,3 @@
-//
-// Created by diego on 1/23/22.
-//
-
-#ifndef ENHANCEDITEMSHOP_GETCH_HPP
-#define ENHANCEDITEMSHOP_GETCH_HPP
-
-#endif //ENHANCEDITEMSHOP_GETCH_HPP
-
 #include <termios.h>
 #include <unistd.h>
 
